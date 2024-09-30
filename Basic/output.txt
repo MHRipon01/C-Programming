@@ -1,1 +1,3 @@
-5.1999998093
+saturday 
+2 hour
+Out of switch case
