@@ -8,3 +8,4 @@ int main(){
     }
     printf("After while loop");
 }
+
