@@ -1,2 +1,2 @@
 
-        int n;
+            min = a[i];
